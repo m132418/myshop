@@ -1,0 +1,1 @@
+<div class="footer"> &copy; 2014-2016 <a href="http://www.aa.cn" target="_blank">www.aa.cn</a> 深圳搜狐网络出品</div>
